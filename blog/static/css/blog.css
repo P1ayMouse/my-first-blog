@@ -4,11 +4,11 @@ body {
 
 h1 a {
     color: #FCA205;
-    font-family: 'Lobster';
+    font-family: 'Neucha';
 }
 
 .page-header {
-    background-color: #ff9400;
+    background-color: #004282;
     margin-top: 0;
     padding: 20px 20px 20px 40px;
 }
@@ -24,7 +24,7 @@ h1 a {
 }
 
 h1, h2, h3, h4 {
-    font-family: 'Kalam';
+    font-family: 'Neucha';
 }
 
 .date {
